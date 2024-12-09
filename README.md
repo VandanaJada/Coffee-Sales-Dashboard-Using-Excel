@@ -9,12 +9,11 @@ This project features an interactive Excel dashboard for analyzing coffee sales 
 - **Interactive Filters**: Segment data by date, roast type, and package size.
 
 ## Files
-- `Coffee_Sales_Dashboard.xlsx`: Data File
-- `Dashboard Screenshots/`: Folder containing images of the dashboard.
--  The main Excel dashboard.
+- `coffeeOrdersData`: Data File
+- `coffeeOrdersProject.xlsx` The main Excel dashboard.
 
 ## Getting Started
-1. Download the `Coffee_Sales_Dashboard.xlsx` file.
+1. Download the `coffeeOrdersProject.xlsx` file.
 2. Open it in Excel to interact with the filters and visualizations.
 
 ## Tools Used
