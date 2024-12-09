@@ -2,6 +2,7 @@
 
 ## Overview
 This project features an interactive Excel dashboard for analyzing coffee sales data across countries, roast types, and customer segments.
+https://github.com/VandanaJada/Coffee-Sales-Dashboard-Using-Excel/blob/main/Dashboard.png
 
 ## Features
 - **Sales Trends Over Time**: Line charts for monthly performance.
