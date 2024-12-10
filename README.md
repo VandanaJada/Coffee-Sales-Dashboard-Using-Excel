@@ -1,4 +1,4 @@
-# Coffee-Sales-Dashboard-Using-Excel
+# Coffee Sales Dashboard Using Excel
 
 ## Overview
 This project features an interactive Excel dashboard for analyzing coffee sales data across countries, roast types, and customer segments.
